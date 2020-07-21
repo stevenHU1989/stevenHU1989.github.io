@@ -3,38 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3f47b849ee9f4e103734630ef12f88a9",
-"assets/assets/albums.json": "c8e0d0fb534b3bf39a459192a3bc37c8",
+  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/images/balls/ball1.png": "a1163f2d7cf83328a7b62c1f8d7ef8d9",
-"assets/images/balls/ball2.png": "85f2db46c56aa9f8db188e8d8e42d940",
-"assets/images/balls/ball3.png": "77dd6e807f3bc50ac4227b08269dbffc",
-"assets/images/balls/ball4.png": "8241ae73551acb56b9d615871c0535c2",
-"assets/images/characters/boo.png": "c8d39aa35d9491e17f267012b6516b1c",
-"assets/images/characters/broly.png": "d27d85090b3d757b535862029ef9d838",
-"assets/images/characters/cell.png": "0bc07dc7183778fe884bae8c7ed970ea",
-"assets/images/characters/frieza.png": "d32807fb626d788865ccbaebaf66dfbc",
-"assets/images/characters/gohan.png": "dbd1a7f3845927a00390605e6bbb1b7d",
-"assets/images/characters/goku.png": "24a923b922c5f6511903cbf4069183e6",
-"assets/images/characters/vegeta.png": "478e4df9b97bd112fa5921bfaedbdcdc",
-"assets/images/credit_cards/chip.png": "32228bc7f27a6d4f5efb6bfb23f3d8ad",
-"assets/images/credit_cards/chip_logo.png": "3bef268e9de7dfc96f587a287e86100b",
-"assets/images/dash_dart.png": "742d2248e4b76e1d4021dcb7d43e141d",
-"assets/images/dash_dart_dark.png": "ed4a76c0ff90ce740861e2f7bce8a853",
-"assets/images/mario_logo.png": "daf731f8c7df30ccae9c991edaaeba39",
-"assets/images/mesi.png": "1193e84d0125ad7cc86649198f0386c6",
-"assets/images/shoes/1.png": "7fc2c6b1334a9fa685336aca4ad846b5",
-"assets/images/shoes/2.png": "a0cd607237ec1cb0683f4206996299dd",
-"assets/images/shoes/3.png": "8ea360e79f98624d080d16ab5dfd4d33",
-"assets/images/shoes/4.png": "50cf016f0231bf6d5dae9b3dfe3305a5",
-"assets/images/twitter_flutter_bg.png": "f179e6f3c18556c70fdcf58fe0fa28d6",
-"assets/images/twitter_flutter_logo.jpg": "8a7ecc44800a7d19fea8380929cf5757",
-"assets/NOTICES": "b2cd70fe4c5f615e2079cbab69bd20a2",
+"assets/NOTICES": "242e0ae6a681ca081aea629e9695d6b4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"index.html": "c533bef5cb6e601dbed75b3a1f543459",
-"/": "c533bef5cb6e601dbed75b3a1f543459",
-"main.dart.js": "d286e7f2a6abb30fa8e6a57cbfb13690"
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"index.html": "878396848802f42f7b5d7357324ee00b",
+"/": "878396848802f42f7b5d7357324ee00b",
+"main.dart.js": "302b32fdee83ad074e3d5cfeecae71d1",
+"manifest.json": "dd09be9108650c4923e5e96bb3285e94"
 };
 
 // The application shell files that are downloaded before a service worker can
