@@ -3,25 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c9a0876311ee4c8ed08e328798be5776",
-"assets/assets/albums.json": "ae7fa5617bd98d531f347bec3e51f8d7",
+  "assets/AssetManifest.json": "5bf18dd404c51bd0fdad5100dcf14807",
+"assets/assets/devices.json": "6e1c2f466edf01037c70f157f63faa08",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/images/goku1.png": "d3f5447894bc52cde8e49489ab59f772",
-"assets/images/goku2.png": "1651fe4351379df11e507533dadea819",
-"assets/images/goku3.png": "de4db302825485c8027a7a6cf9efc2cc",
-"assets/images/goku4.png": "7345e5cfadc30cb425d6a9522afb5eeb",
-"assets/images/goku5.png": "c076704ae07e1f99512cb897c822c0e2",
-"assets/images/goku6.png": "2a9a4a4bccea93cc769524405bf0e2bc",
-"assets/images/goku7.png": "2d9335412cd76fa7791ea77a53da7c14",
-"assets/NOTICES": "28eb89b9741326b1de0cb7eee5a5558d",
+"assets/NOTICES": "d474e88a66f9b9b5d2f63ff43735c0ed",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "878396848802f42f7b5d7357324ee00b",
 "/": "878396848802f42f7b5d7357324ee00b",
-"main.dart.js": "54fae24956227c46c8e405c437b72c6a",
+"main.dart.js": "cf32c448e3c4303c5f1c73b8f7d10e71",
 "manifest.json": "dd09be9108650c4923e5e96bb3285e94"
 };
 
